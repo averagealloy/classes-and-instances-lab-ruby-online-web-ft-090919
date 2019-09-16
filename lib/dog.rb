@@ -1,4 +1,4 @@
 class Dog
 end
 
-pupper1 = Dog
+pupper1 = Dog.new
