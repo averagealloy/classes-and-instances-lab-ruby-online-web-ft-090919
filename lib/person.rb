@@ -1,5 +1,5 @@
 class Person
 end
-fido = Peraon.new
+fido = Person.new
 snoopy = Dog.new
 lassie = Dog.new
