@@ -1,4 +1,4 @@
-class perso
+class person
 end
 fido = Dog.new
 snoopy = Dog.new
