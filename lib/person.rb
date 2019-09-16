@@ -1,4 +1,4 @@
 class Person
 end
-fido = Person.new
+ = Person.new
 snoopy = Person.new
